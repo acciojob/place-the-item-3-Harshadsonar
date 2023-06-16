@@ -1,2 +1,13 @@
+.holder {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    align-content: flex-start;
+}
 
-/* Your CSS Code here. */
+.item {
+    margin: 5px;
+    width: 100px;
+    height: 100px;
+    background-color: lightskyblue;
+}
